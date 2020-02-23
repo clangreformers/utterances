@@ -171,7 +171,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.UTTERANCES_API = void 0;
-var UTTERANCES_API = 'https://clangreformers.azurewebsites.net';
+var UTTERANCES_API = 'https://clangreformers-apim.azure-api.net';
 exports.UTTERANCES_API = UTTERANCES_API;
 },{}],"oauth.ts":[function(require,module,exports) {
 "use strict";
